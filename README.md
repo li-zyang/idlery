@@ -1,6 +1,6 @@
 # Idlery
 
-<table border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
+<table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
   <colgroup>
     <col width="150" />
     <col />
