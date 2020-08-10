@@ -5,6 +5,15 @@
 <tr>
 <td width="150" align="right">2020-08-10<br>14:31</td>
 <td>
+md<br>
+千万别买 <a href="https://www.socketpro.site/zh/home">Socket Pro</a> 的服务，坑死<br>
+都 0202 年 8 月了还只支持 SSR，客服态度还横的一批
+</td>
+</tr>
+
+<tr>
+<td width="150" align="right">2020-08-10<br>14:31</td>
+<td>
 想睡着难，想起床难，想不起床也难<br>
 真难
 </td>
