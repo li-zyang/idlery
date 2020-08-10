@@ -3,6 +3,14 @@
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
 <tr>
+<td width="150" align="right">2020-08-10<br>14:31</td>
+<td>
+想睡着难，想起床难，想不起床也难<br>
+真难
+</td>
+</tr>
+
+<tr>
 <td width="150" align="right">2020-08-08<br>16:16</td>
 <td>
 傻逼公司做的东西真的是越来越弱智，TMD 现在移动应用也不知道是在往什么有毒的方向<br>
