@@ -3,6 +3,14 @@
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
 <tr>
+<td width="150" align="right">2020-08-14<br>20:23</td>
+<td><p>
+做啥都專心不下來的一天</p><p>
+一個看起來挺小的 Proj 拖了一個多月，再不搞完都要開學了。心態爆炸。</p>
+</td>
+</tr>
+
+<tr>
 <td width="150" align="right">2020-08-13<br>20:42</td>
 <td><p>
 什么狗屎网络今天</p>
