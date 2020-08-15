@@ -5,12 +5,8 @@
 <tr>
 <td width="150" align="right">2020-08-15<br>22:46</td>
 <td><p>
-你 TM 杀了我吧</p>
-<table>
-  <tr>
-    <td width="100" height="100"><img src="src/8kkSO9SJSv.jpg" /></td>
-  </tr>
-</table>
+你 TM 杀了我吧</p><p>
+<img width="200" src="src/8kkSO9SJSv.jpg" /></p>
 </td>
 </tr>
 
