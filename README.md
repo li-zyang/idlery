@@ -3,6 +3,25 @@
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
 <tr>
+<td width="150" align="right">2020-08-16<br>15:11</td>
+<td><p>
+早上費力半天勁把家裏的傻逼書櫃拉出來拿後面的東西，搞了一個多小時，好不容易弄完
+了回來打開個 Photoshop 處理張圖片結果剛打開就報錯異常退出，還把 Firefox 也搞
+崩了，重啓沒多久又崩一次，好不容易把這些破事搞完結果發現 Tampermonkey 在石墨
+文檔上又沒法正常運行了，而且還找不到原因，下午喝個酸奶結果一撕包裝直接質壁分離
+了，洗個杯子結果杯子直接從橡膠套裏面脫出來摔碎了</p><p>
+真 TM 好一天</p>
+<table>
+  <tr>
+    <td width="100" height="100"><img src="src/oqDa5Iz3kB.jpg" /></td>
+    <td width="100" height="100"><img src="src/UzDMLOZi4r.jpg" /></td>
+    <td width="100" height="100"><img src="src/q79yU51hLv.jpg" /></td>
+  </tr>
+</table>
+</td>
+</tr>
+
+<tr>
 <td width="150" align="right">2020-08-15<br>22:46</td>
 <td><p>
 你 TM 杀了我吧</p><p>
