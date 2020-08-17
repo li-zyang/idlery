@@ -10,14 +10,10 @@
 崩了，重啓沒多久又崩一次，好不容易把這些破事搞完結果發現 Tampermonkey 在石墨
 文檔上又沒法正常運行了，而且還找不到原因，下午喝個酸奶結果一撕包裝直接質壁分離
 了，洗個杯子結果杯子直接從橡膠套裏面脫出來摔碎了</p><p>
-真 TM 好一天</p>
-<table>
-  <tr>
-    <td width="100" height="100"><img src="src/oqDa5Iz3kB.jpg" /></td>
-    <td width="100" height="100"><img src="src/UzDMLOZi4r.jpg" /></td>
-    <td width="100" height="100"><img src="src/q79yU51hLv.jpg" /></td>
-  </tr>
-</table>
+真 TM 好一天</p><p>
+<a href="src/oqDa5Iz3kB.jpg?raw=true"><img src="thumbnail/oqDa5Iz3kB.webp"></a>
+<a href="src/UzDMLOZi4r.jpg?raw=true"><img src="thumbnail/UzDMLOZi4r.webp"></a>
+<a href="src/q79yU51hLv.jpg?raw=true"><img src="thumbnail/q79yU51hLv.webp"></a></p>
 </td>
 </tr>
 
@@ -95,14 +91,10 @@ md<br>
 就一个关于，那你妈逼的还不如直接放个关于算了呢</p><p>
 还有我发个文件文件空不空关你屁事？我叫你检查文件内容了吗？？</p><p>
 还有有事没事就叫人安装个 App 这种鬼风气，你 TM 的 App 很好看咩？？一点小功能
-用 Web 会死是不是？还有些只做手机端不做 PC 端的我真是祝您早日爆炸💥</p>
-<table>
-  <tr>
-    <td width="100" height="100"><img src="src/2d6EGBqogd.jpg" /></td>
-    <td width="100" height="100"><img src="src/CIwGClJJ0F.jpg" /></td>
-    <td width="100" height="100"><img src="src/MabNa9oFY5.jpg" /></td>
-  </tr>
-</table>
+用 Web 会死是不是？还有些只做手机端不做 PC 端的我真是祝您早日爆炸💥</p><p>
+<a href="src/2d6EGBqogd.jpg?raw=true"><img src="thumbnail/2d6EGBqogd.webp"></a>
+<a href="src/CIwGClJJ0F.jpg?raw=true"><img src="thumbnail/CIwGClJJ0F.webp"></a>
+<a href="src/MabNa9oFY5.jpg?raw=true"><img src="thumbnail/MabNa9oFY5.webp"></a></p>
 </td>
 </tr>
 
