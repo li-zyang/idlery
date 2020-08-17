@@ -3,6 +3,14 @@
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
 <tr>
+<td width="150" align="right">2020-08-17<br>21:18</td>
+<td><p>
+又搞起 PIL 來了</p><p>
+就是以前用過的東西全忘了</p>
+</td>
+</tr>
+
+<tr>
 <td width="150" align="right">2020-08-16<br>15:11</td>
 <td><p>
 早上費力半天勁把家裏的傻逼書櫃拉出來拿後面的東西，搞了一個多小時，好不容易弄完
