@@ -3,14 +3,14 @@
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
 <tr>
-<td width="150" align="right">2020-08-20<br>23:26</td>
+<td width="150" align="right">2020-08-20<br>23:26<br><sup><sub>#if573gw8yz</sub></sup></td>
 <td><p>
 生活艱難吶</p>
 </td>
 </tr>
 
 <tr>
-<td width="150" align="right">2020-08-17<br>21:18</td>
+<td width="150" align="right">2020-08-17<br>21:18<br><sup><sub>#wUeB0XXpdk</sub></sup></td>
 <td><p>
 又搞起 PIL 來了</p><p>
 就是以前用過的東西全忘了</p>
@@ -18,7 +18,7 @@
 </tr>
 
 <tr>
-<td width="150" align="right">2020-08-16<br>15:11</td>
+<td width="150" align="right">2020-08-16<br>15:11<br><sup><sub>#ArW7U3aGhr</sub></sup></td>
 <td><p>
 早上費力半天勁把家裏的傻逼書櫃拉出來拿後面的東西，搞了一個多小時，好不容易弄完
 了回來打開個 Photoshop 處理張圖片結果剛打開就報錯異常退出，還把 Firefox 也搞
@@ -33,7 +33,7 @@
 </tr>
 
 <tr>
-<td width="150" align="right">2020-08-15<br>22:46</td>
+<td width="150" align="right">2020-08-15<br>22:46<br><sup><sub>#Y6Aa3j19eL</sub></sup></td>
 <td><p>
 你 TM 杀了我吧</p><p>
 <img width="200" src="src/8kkSO9SJSv.jpg" /></p>
@@ -41,14 +41,14 @@
 </tr>
 
 <tr>
-<td width="150" align="right">2020-08-15<br>13:57</td>
+<td width="150" align="right">2020-08-15<br>13:57<br><sup><sub>#eV9AWz8Z1b</sub></sup></td>
 <td><p>
 搞吧，使勁搞吧，反正永遠都是“你們”家</p>
 </td>
 </tr>
 
 <tr>
-<td width="150" align="right">2020-08-14<br>20:23</td>
+<td width="150" align="right">2020-08-14<br>20:23<br><sup><sub>#WGeDyBLQKd</sub></sup></td>
 <td><p>
 做啥都專心不下來的一天</p><p>
 一個看起來挺小的 Proj 拖了一個多月，再不搞完都要開學了。心態爆炸。</p>
@@ -56,14 +56,14 @@
 </tr>
 
 <tr>
-<td width="150" align="right">2020-08-13<br>20:42</td>
+<td width="150" align="right">2020-08-13<br>20:42<br><sup><sub>#0UQIc0neIH</sub></sup></td>
 <td><p>
 什么狗屎网络今天</p>
 </td>
 </tr>
 
 <tr>
-<td width="150" align="right">2020-08-13<br>10:35</td>
+<td width="150" align="right">2020-08-13<br>10:35<br><sup><sub>#6Xa5jAGUBg</sub></sup></td>
 <td><p>
 我发现街区派出所的面子工程简直是完美的闹钟，一听到就醒<br>
 拿来当闹钟铃声了✓</p>
@@ -75,7 +75,7 @@
 </tr>
 
 <tr>
-<td width="150" align="right">2020-08-10<br>14:31</td>
+<td width="150" align="right">2020-08-10<br>14:31<br><sup><sub>#QeZK2JOgnF</sub></sup></td>
 <td><p>
 md<br>
 千万别买 <a href="https://www.socketpro.site/zh/home">Socket Pro</a> 的服务，坑死<br>
@@ -84,7 +84,7 @@ md<br>
 </tr>
 
 <tr>
-<td width="150" align="right">2020-08-10<br>14:31</td>
+<td width="150" align="right">2020-08-10<br>14:31<br><sup><sub>#Iyg7tA9p9b</sub></sup></td>
 <td><p>
 想睡着难，想起床难，想不起床也难<br>
 真难</p>
@@ -92,7 +92,7 @@ md<br>
 </tr>
 
 <tr>
-<td width="150" align="right">2020-08-08<br>16:16</td>
+<td width="150" align="right">2020-08-08<br>16:16<br><sup><sub>#GQyTOWICx</sub></sup></td>
 <td><p>
 傻逼公司做的东西真的是越来越弱智，TMD 现在移动应用也不知道是在往什么有毒的方向
 发展，总喜欢没事找事去做些多余的东西，要不就是把什么东西都隐藏起来，搞得手机越
@@ -114,7 +114,7 @@ md<br>
 </tr>
 
 <tr>
-<td width="150" align="right">2020-08-07<br>14:05</td>
+<td width="150" align="right">2020-08-07<br>14:05<br><sup><sub>#kKakAEwZuH</sub></sup></td>
 <td><p>
 ............................... 72 ch rl ...............................<br>
 OK =_= 有啥逼話發這算了<br>
