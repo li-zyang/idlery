@@ -3,6 +3,13 @@
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
 <tr>
+<td width="150" align="right">2020-08-20<br>23:26</td>
+<td><p>
+生活艱難吶</p>
+</td>
+</tr>
+
+<tr>
 <td width="150" align="right">2020-08-17<br>21:18</td>
 <td><p>
 又搞起 PIL 來了</p><p>
