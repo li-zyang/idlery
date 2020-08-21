@@ -3,6 +3,13 @@
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
 <tr>
+<td width="150" align="right">2020-08-21<br>19:16<br><sup><sub>#606CPH9JRF</sub></sup></td>
+<td><p>
+被全世界圍攻的一天</p>
+</td>
+</tr>
+
+<tr>
 <td width="150" align="right">2020-08-21<br>12:49<br><sup><sub>#OhybzdTnQ9</sub></sup></td>
 <td><p>
 你永遠都祗是“說了幾句”，所以錯誤總是在別人身上</p>
