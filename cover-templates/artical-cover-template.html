@@ -1,0 +1,66 @@
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>artical cover template</title>
+  <link rel="stylesheet" href="shared.css">
+</head>
+
+<body>
+  <div class="cover overlay-container">
+    <img src="[SET[--this.cover]]" class="stretch-vertical fill-horizontal blured cover-background">
+    <table>
+      <tr>
+        <td rowspan="2" class="cover-image-wrapper">
+            <img src="[SET[-this.cover-]]" class="cover-image fill-vertical fill-horizontal">
+          </div>
+        </td>
+        <td class="cover-title">
+          [SET[-this.title-]]
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td class="cover-extra">
+          [SET[-this.source-]]
+        </td>
+      </tr>
+    </table>
+  </div>
+</body>
+
+<style type="text/css">
+  .cover {
+    height: 60px;
+  }
+  .cover-image-wrapper {
+    height: 60px;
+    width: 60px;
+  }
+  .cover-title {
+    font-size: 14px;
+    height: 30px;
+    color: #484848;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    vertical-align: middle;
+  }
+  .cover-extra {
+    font-size: 9px;
+    height: 30px;
+    color: #888888;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    vertical-align: middle;
+  }
+  .cover .cover-title {
+    padding: 5px 10px 0px 10px;
+  }
+  .cover .cover-extra {
+    padding: 0px 10px 5px 10px;
+  }
+</style>
+
+<html>

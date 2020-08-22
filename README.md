@@ -3,6 +3,15 @@
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
 <tr>
+<td width="150" align="right">2020-08-22<br>09:29<br><sup><sub>#G2cDKkluar</sub></sup></td>
+<td><p>
+今天又發現一個自己跟別人不一樣的地方呢</p><p>
+不只是爺爺奶奶，親媽也會這麼想，而且還很自豪呢</p><p>
+<a href="https://mp.weixin.qq.com/s/85wUphWqUB66MYgcPDkvqg"><img src="src/eig5vu49Ty.png" width="400"></a></p>
+</td>
+</tr>
+
+<tr>
 <td width="150" align="right">2020-08-21<br>19:16<br><sup><sub>#606CPH9JRF</sub></sup></td>
 <td><p>
 被全世界圍攻的一天</p>
