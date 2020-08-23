@@ -29,11 +29,12 @@
 
 <style type="text/css">
   .cover {
-    height: 60px;
+    --image-size: 60px;
+    height: var(--image-size);
   }
   .cover-image-wrapper {
-    height: 60px;
-    width: 60px;
+    height: var(--image-size);
+    width: var(--image-size);
   }
   .cover-title {
     font-size: 14px;
@@ -43,6 +44,7 @@
     white-space: nowrap;
     text-overflow: ellipsis;
     vertical-align: middle;
+    box-sizing: border-box;
   }
   .cover-extra {
     font-size: 9px;
@@ -52,6 +54,7 @@
     white-space: nowrap;
     text-overflow: ellipsis;
     vertical-align: middle;
+    box-sizing: border-box;
   }
   .cover .cover-title {
     padding: 5px 10px 0px 10px;
