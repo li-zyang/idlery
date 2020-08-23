@@ -5,7 +5,7 @@
 <tr>
 <td width="150" align="right">2020-08-24<br>01:43<br><sup><sub>#GG8tnEdcfE</sub></sup></td>
 <td><p>
-返校倒計時六天</p>
+返校倒計時七天</p>
 </td>
 </tr>
 
