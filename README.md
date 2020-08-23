@@ -8,7 +8,7 @@
 微軟寧是真牛逼哈，一天不做妖會死？</p><p>
 神 TM 無法查看所有者，刪個文件都能給你刪死了
 </p><p>
-<a href="src/86VOgIUcF2.jpg?raw=true"><img src="thumbnail/86VOgIUcF2.webp"></a></p><blockquote>
+<img src="src/86VOgIUcF2.jpg" width="200"></p><blockquote>
 <a href="/li-zyang">li-zyang</a>: 紧接着系统界面就开始出各种 bug<br>
 <a href="/li-zyang">li-zyang</a>: 然后重启进 PE 之后发现这个文件早就从文件系统上被删除了<br>
 <a href="/li-zyang">li-zyang</a>: 你说刺激不刺激<br>
