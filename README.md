@@ -3,6 +3,13 @@
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
 <tr>
+<td width="150" align="right">2020-08-24<br>01:43<br><sup><sub>#GG8tnEdcfE</sub></sup></td>
+<td><p>
+返校倒計時六天</p>
+</td>
+</tr>
+
+<tr>
 <td width="150" align="right">2020-08-23<br>15:37<br><sup><sub>#IdF57WKjFo</sub></sup></td>
 <td><p>
 微軟寧是真牛逼哈，一天不做妖會死？</p><p>
