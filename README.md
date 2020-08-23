@@ -8,10 +8,10 @@
 微軟寧是真牛逼哈，一天不做妖會死？</p><p>
 神 TM 無法查看所有者，刪個文件都能給你刪死了
 </p><p>
-<img src="src/86VOgIUcF2.jpg" width="200"></p><blockquote>
-<a href="/li-zyang">li-zyang</a>: 紧接着系统界面就开始出各种 bug<br>
-<a href="/li-zyang">li-zyang</a>: 然后重启进 PE 之后发现这个文件早就从文件系统上被删除了<br>
-<a href="/li-zyang">li-zyang</a>: 你说刺激不刺激<br>
+<a href="src/86VOgIUcF2.jpg?raw=true"><img src="src/86VOgIUcF2.jpg" width="200"></a></p><blockquote>
+<a href="//github.com/li-zyang">li-zyang</a>: 紧接着系统界面就开始出各种 bug<br>
+<a href="//github.com/li-zyang">li-zyang</a>: 然后重启进 PE 之后发现这个文件早就从文件系统上被删除了<br>
+<a href="//github.com/li-zyang">li-zyang</a>: 你说刺激不刺激<br>
 </blockquote>
 </td>
 </tr>
@@ -81,7 +81,7 @@
 <td width="150" align="right">2020-08-15<br>22:46<br><sup><sub>#Y6Aa3j19eL</sub></sup></td>
 <td><p>
 你 TM 杀了我吧</p><p>
-<img width="200" src="src/8kkSO9SJSv.jpg" /></p>
+<a href="src/8kkSO9SJSv.jpg?raw=true"><img width="200" src="src/8kkSO9SJSv.jpg"></a></p>
 </td>
 </tr>
 
