@@ -3,6 +3,16 @@
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
 <tr>
+<td width="150" align="right">2020-08-23<br>15:37<br><sup><sub>#IdF57WKjFo</sub></sup></td>
+<td><p>
+微軟寧是真牛逼哈，一天不做妖會死？</p><p>
+神 TM 無法查看所有者，刪個文件都能給你刪死了
+</p><p>
+<a href="src/86VOgIUcF2.jpg?raw=true"><img src="thumbnail/86VOgIUcF2.webp"></a></p>
+</td>
+</tr>
+
+<tr>
 <td width="150" align="right">2020-08-22<br>19:57<br><sup><sub>#EmR2I0wb9K</sub></sup></td>
 <td><p>
 這是八月份的 6000 字／天</p><p>
