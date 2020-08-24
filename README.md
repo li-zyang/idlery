@@ -1,5 +1,12 @@
 ![](cover.webp)
 
+<!--
+  cover image:
+  - ratio: 13:6 (2340:1080)
+  - top-corner: 50px
+  - save-as: 1920px webp
+  -->
+
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
 <tr>
