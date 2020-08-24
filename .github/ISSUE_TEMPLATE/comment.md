@@ -1,11 +1,10 @@
 ---
 name: comment
 about: leave a comment
-title: "#__ID  (<= fill) (and more)"
+title: "#__ID  (e.g. #kQZqf4jZkJ) (and more)"
 labels: ''
 assignees: ''
 
 ---
 
-`#__ID`
-<!-- e.g. #kQZqf4jZkJ -->
+<!-- copy the idlery ID under the publish time -->
