@@ -5,6 +5,10 @@
   - ratio: 13:6 (2340:1080)
   - top-corner: 50px
   - save-as: 1920px webp
+
+  single image:
+  /* be sure to add hyperlink to raw file manually */
+  - width: 200px
   -->
 
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
@@ -13,7 +17,7 @@
 <td width="150" align="right">2020-08-24<br>23:06<br><sup><sub>#kQZqf4jZkJ</sub></sup></td>
 <td><p>
 華師的服務真的是日常出 bug ... 我改你🐴呢</p><p>
-<img src="src/ilmMyNjDfz.jpg" width="400"></p>
+<a href="src/ilmMyNjDfz.jpg?raw=true"><img src="src/ilmMyNjDfz.jpg" width="200"></a></p>
 </td>
 </tr>
 
