@@ -10,6 +10,14 @@
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
 <tr>
+<td width="150" align="right">2020-08-24<br>23:06<br><sup><sub>#kQZqf4jZkJ</sub></sup></td>
+<td><p>
+華師的服務真的是日常出 bug ... 我改你🐴呢</p><p>
+<img src="src/ilmMyNjDfz.jpg" width="400"></p>
+</td>
+</tr>
+
+<tr>
 <td width="150" align="right">2020-08-24<br>01:43<br><sup><sub>#GG8tnEdcfE</sub></sup></td>
 <td><p>
 返校倒計時七天</p>
