@@ -14,6 +14,14 @@
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
 <tr>
+<td width="150" align="right">2020-08-26<br>02:12<br><sup><sub>#IfIQ43YU7u</sub></sup></td>
+<td><p>
+原來七夕已經過了啊😂笑死（渾然不覺的我😂</p><p>
+<a href="src/2RGYGA1Pme.jpg?raw=true"><img src="thumbnail/2RGYGA1Pme.webp"></a></p>
+</td>
+</tr>
+
+<tr>
 <td width="150" align="right">2020-08-25<br>23:34<br><sup><sub>#04oTS63tZF</sub></sup></td>
 <td><p>
 一次看個夠，還在宣揚什麼孝順的人可認清現實吧</p><p>
