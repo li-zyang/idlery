@@ -16,7 +16,7 @@
 <tr>
 <td width="150" align="right">2020-08-25<br>21:00<br><sup><sub>#kuSCgiBreG</sub></sup></td>
 <td><p>
-<a href="https://music.163.com/#/song?id=441491828?raw=true"><img src="src/8epygeAHer.png" width="400"></a></p>
+<a href="https://music.163.com/#/song?id=441491828"><img src="src/8epygeAHer.png" width="400"></a></p>
 </td>
 </tr>
 
