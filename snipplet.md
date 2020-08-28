@@ -11,3 +11,11 @@
 <a href="/__user">__user</a>: __comment1<br>
 <a href="/__user">__user</a>: __comment2<br>
 </blockquote>
+
+<!--
+  Note: 
+  1. Date, time and idlery ID will be filled automatically by update.sh
+  2. mutiple images should be placed into one paragraph
+  3. single image idlery do not use a thumbnail as source, but a outer 
+     hyperlink to the raw image file are still required
+  -->
