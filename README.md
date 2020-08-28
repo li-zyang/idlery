@@ -14,6 +14,27 @@
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
 <tr>
+<td width="150" align="right">2020-08-28<br>15:03<br><sup><sub>#zb1Xeg7n7I</sub></sup></td>
+<td><p>
+一個破返校申請得搞來搞去交三次，有什麼東西自己又不說清楚</p><p>
+一個破 file 不會把多文件打開嗎？上傳附件您這到底是文本還是按鈕呢？還有 PDF 是
+您自己放上去的吧，最後怎麼又不要上傳 PDF 了呢？什麼叫做命名一目瞭然，您 TM 倒
+是說清楚怎麼命名啊？前一句說圖片大小不超過 3MB，後一句又說不要壓縮圖片，前端壓
+縮圖片幾行代碼不會寫是嗎？要不要我給您發過去啊？？還有上傳附件出錯返回的網頁 
+MIMEType 都錯了，而且還不知道用得什麼鬼編碼，一堆亂碼（沒截圖），您真是善於方
+便自己麻煩別人呢
+</p><p>
+還有昨天看到一篇文章說的某些高校封閉式管理就是學生要來來回回申請半天才能進出校
+門，教工卻自由進出，我看有你華南師範大學一個吧？教育部的回應倒是牛逼，妥妥的給
+各校校領導洗白，怎麼沒見教工進出要申請半天呢？？
+</p><p>
+<a href="src/Itt3n0eIXn.jpg?raw=true"><img src="thumbnail/Itt3n0eIXn.webp"></a></p><p>
+<a href="src/cOwfLJ8KFp.jpg?raw=true"><img src="thumbnail/cOwfLJ8KFp.webp"></a></p><p>
+<a href="src/2nfY526umd.jpg?raw=true"><img src="thumbnail/2nfY526umd.webp"></a></p>
+</td>
+</tr>
+
+<tr>
 <td width="150" align="right">2020-08-26<br>20:21<br><sup><sub>#SWrGkyM4kb</sub></sup></td>
 <td><p>
 睡眠不足警告 + 有毒煙塵吸入警告</p><p>
