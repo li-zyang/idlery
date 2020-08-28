@@ -28,8 +28,8 @@ MIMEType 都錯了，而且還不知道用得什麼鬼編碼，一堆亂碼（�
 門，教工卻自由進出，我看有你華南師範大學一個吧？教育部的回應倒是牛逼，妥妥的給
 各校校領導洗白，怎麼沒見教工進出要申請半天呢？？
 </p><p>
-<a href="src/Itt3n0eIXn.jpg?raw=true"><img src="thumbnail/Itt3n0eIXn.webp"></a></p><p>
-<a href="src/cOwfLJ8KFp.jpg?raw=true"><img src="thumbnail/cOwfLJ8KFp.webp"></a></p><p>
+<a href="src/Itt3n0eIXn.jpg?raw=true"><img src="thumbnail/Itt3n0eIXn.webp"></a>
+<a href="src/cOwfLJ8KFp.jpg?raw=true"><img src="thumbnail/cOwfLJ8KFp.webp"></a>
 <a href="src/2nfY526umd.jpg?raw=true"><img src="thumbnail/2nfY526umd.webp"></a></p>
 </td>
 </tr>
