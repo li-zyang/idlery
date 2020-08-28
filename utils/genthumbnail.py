@@ -1,6 +1,5 @@
 import pathlib
 import argparse
-from tqdm import tqdm
 from PIL import Image
 
 parser = argparse.ArgumentParser(description = 'Generate thumbnails')
@@ -54,6 +53,7 @@ def genthumbnail(item):
   thumbnailpath = str(destpath) + '/' + item.with_suffix('.webp').name
   if pathlib.Path(thumbnailpath).exists():
     return
+  print('Generating thumbnail for {}'.format(str(item)))
   cur = Image.open(str(item))
   orisize = cur.size
   if orisize[0] <= orisize[1]:
@@ -68,10 +68,10 @@ def genthumbnail(item):
   cur.close()
 
 if sourcepath.is_dir():
-  for item in tqdm(sourcepath.iterdir()):
-    if item.suffix.lower() in imageexts:
-      genthumbnail(item)
+  itemiter = sourcepath.iterdir()
 else:
-  for item in tqdm([sourcepath]):
-    if item.suffix.lower() in imageexts:
-      genthumbnail(item)
+  itemiter = [sourcepath]
+
+for item in itemiter:
+  if item.suffix.lower() in imageexts:
+    genthumbnail(item)
