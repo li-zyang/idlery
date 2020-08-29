@@ -14,6 +14,13 @@
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
 <tr>
+<td width="150" align="right">2020-08-29<br>23:59<br><sup><sub>#RCG314KlPv</sub></sup></td>
+<td><p>
+我準備好了👌</p>
+</td>
+</tr>
+
+<tr>
 <td width="150" align="right">2020-08-28<br>21:20<br><sup><sub>#DgOLAXeAxb</sub></sup></td>
 <td><p>
 CODING 真香</p><p>
