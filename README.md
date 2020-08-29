@@ -1,4 +1,4 @@
-![](cover.webp)
+![](src/cover.webp)
 
 <!--
   cover image:
