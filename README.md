@@ -14,6 +14,13 @@
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
 <tr>
+<td width="150" align="right">2020-08-30<br>17:49<br><sup><sub>#FoebCfx1Gm</sub></sup></td>
+<td><p>
+整理宿舍整理到天荒地老，感覺像是住進了一棟廢棄的樓一樣</p>
+</td>
+</tr>
+
+<tr>
 <td width="150" align="right">2020-08-29<br>23:59<br><sup><sub>#RCG314KlPv</sub></sup></td>
 <td><p>
 我準備好了👌</p>
