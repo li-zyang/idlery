@@ -3,6 +3,13 @@
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
 <tr>
+<td width="150" align="right">2020-08-30<br>23:04<br><sup><sub>#0fx2FWQnUF</sub></sup></td>
+<td><p>
+正式開學前可以出去還是 OK 的，不過不知道多久之後才能恢復征程通行</p>
+</td>
+</tr>
+
+<tr>
 <td width="150" align="right">2020-08-30<br>17:49<br><sup><sub>#FoebCfx1Gm</sub></sup></td>
 <td><p>
 整理宿舍整理到天荒地老，感覺像是住進了一棟廢棄的樓一樣</p>
