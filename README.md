@@ -1,16 +1,5 @@
 ![](src/cover.webp)
 
-<!--
-  cover image:
-  - ratio: 13:6 (2340:1080)
-  - top-corner: 50px
-  - save-as: 1920px webp
-
-  single image:
-  /* be sure to add hyperlink to raw file manually */
-  - width: 200px
-  -->
-
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
 <tr>
@@ -33,7 +22,7 @@
 CODING 真香</p><p>
 這容量快趕上某度網盤了
 </p><p>
-<a href="src/AxBldbH2Ro.jpg?raw=true"><img src="src/AxBldbH2Ro.jpg" width="200"></a></p>
+<a href="src/AxBldbH2Ro.jpg?raw=true"><img src="thumbnail/AxBldbH2Ro_large.webp"></a></p>
 </td>
 </tr>
 
@@ -70,7 +59,7 @@ MIMEType 都錯了，而且還不知道用得什麼鬼編碼，一堆亂碼（�
 <td width="150" align="right">2020-08-26<br>02:12<br><sup><sub>#IfIQ43YU7u</sub></sup></td>
 <td><p>
 原來七夕已經過了啊😂笑死（渾然不覺的我😂</p><p>
-<a href="src/2RGYGA1Pme.jpg?raw=true"><img src="thumbnail/2RGYGA1Pme.webp"></a></p>
+<a href="src/2RGYGA1Pme.jpg?raw=true"><img src="thumbnail/2RGYGA1Pme_large.webp"></a></p>
 </td>
 </tr>
 
@@ -102,7 +91,7 @@ MIMEType 都錯了，而且還不知道用得什麼鬼編碼，一堆亂碼（�
 <td width="150" align="right">2020-08-24<br>23:06<br><sup><sub>#kQZqf4jZkJ</sub></sup></td>
 <td><p>
 華師的服務真的是日常出 bug ... 我改你🐴呢</p><p>
-<a href="src/ilmMyNjDfz.jpg?raw=true"><img src="src/ilmMyNjDfz.jpg" width="200"></a></p>
+<a href="src/ilmMyNjDfz.jpg?raw=true"><img src="thumbnail/ilmMyNjDfz_large.webp"></a></p>
 </td>
 </tr>
 
@@ -119,7 +108,7 @@ MIMEType 都錯了，而且還不知道用得什麼鬼編碼，一堆亂碼（�
 微軟寧是真牛逼哈，一天不做妖會死？</p><p>
 神 TM 無法查看所有者，刪個文件都能給你刪死了
 </p><p>
-<a href="src/86VOgIUcF2.jpg?raw=true"><img src="src/86VOgIUcF2.jpg" width="200"></a></p><blockquote>
+<a href="src/86VOgIUcF2.jpg?raw=true"><img src="thumbnail/86VOgIUcF2_large.webp"></a></p><blockquote>
 <a href="//github.com/li-zyang">li-zyang</a>: 紧接着系统界面就开始出各种 bug<br>
 <a href="//github.com/li-zyang">li-zyang</a>: 然后重启进 PE 之后发现这个文件早就从文件系统上被删除了<br>
 <a href="//github.com/li-zyang">li-zyang</a>: 你说刺激不刺激<br>
@@ -131,7 +120,7 @@ MIMEType 都錯了，而且還不知道用得什麼鬼編碼，一堆亂碼（�
 <td width="150" align="right">2020-08-22<br>19:57<br><sup><sub>#EmR2I0wb9K</sub></sup></td>
 <td><p>
 這是八月份的 6000 字／天</p><p>
-<a href="src/O4b91ZI6HC.jpg?raw=true"><img src="thumbnail/O4b91ZI6HC.webp"></a></p>
+<a href="src/O4b91ZI6HC.jpg?raw=true"><img src="thumbnail/O4b91ZI6HC_large.webp"></a></p>
 </td>
 </tr>
 
@@ -192,7 +181,7 @@ MIMEType 都錯了，而且還不知道用得什麼鬼編碼，一堆亂碼（�
 <td width="150" align="right">2020-08-15<br>22:46<br><sup><sub>#Y6Aa3j19eL</sub></sup></td>
 <td><p>
 你 TM 杀了我吧</p><p>
-<a href="src/8kkSO9SJSv.jpg?raw=true"><img width="200" src="src/8kkSO9SJSv.jpg"></a></p>
+<a href="src/8kkSO9SJSv.jpg?raw=true"><img src="thumbnail/8kkSO9SJSv_large.webp"></a></p>
 </td>
 </tr>
 
