@@ -3,6 +3,14 @@
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
 <tr>
+<td width="150" align="right">2020-08-31<br>19:30<br><sup><sub>#d6N4ZrOHfB</sub></sup></td>
+<td><p>
+抓住暑假的尾巴，再逛一逛繁華的廣州</p><p>
+打卡：薩利亞的餐還挺好吃，不算太貴</p>
+</td>
+</tr>
+
+<tr>
 <td width="150" align="right">2020-08-31<br>09:38<br><sup><sub>#c7O9A7aU75</sub></sup></td>
 <td><p>
 不聚集 -> 只開一個驛站</p><p>
