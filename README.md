@@ -3,6 +3,15 @@
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
 <tr>
+<td width="150" align="right">2020-08-31<br>09:38<br><sup><sub>#c7O9A7aU75</sub></sup></td>
+<td><p>
+不聚集 -> 只開一個驛站</p><p>
+不愧是校領導（也許西區驛站在校園內南區驛站在校園外所以？</p><p>
+<a href="src/omRKXOkCEn.jpg?raw=true"><img src="thumbnail/omRKXOkCEn_large.webp"></a></p>
+</td>
+</tr>
+
+<tr>
 <td width="150" align="right">2020-08-30<br>23:04<br><sup><sub>#0fx2FWQnUF</sub></sup></td>
 <td><p>
 正式開學前可以出去還是 OK 的，不過不知道多久之後才能恢復征程通行</p>
