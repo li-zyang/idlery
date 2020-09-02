@@ -1,6 +1,7 @@
 set -e
 set -o pipefail
 python ./utils/genthumbnail.py
+python ./utils/rmexif.py -s src/
 python ./utils/fillupload.py README.md
 git add README.md
 git add covers

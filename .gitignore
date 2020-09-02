@@ -1,3 +1,4 @@
-**/temp/*
-/cover-templates/shared.css
+**/.temp/*
 /src/cover.png
+/subscriptions/*
+/data/*
