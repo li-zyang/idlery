@@ -5,7 +5,7 @@ import json
 import os
 from datetime import datetime
 
-parser = argparse.ArgumentParser(description = 'Convert an image to webp format')
+parser = argparse.ArgumentParser(description = 'Remove EXIF of images')
 parser.add_argument(
   '-s', '--source',
   metavar = 'PATH',
