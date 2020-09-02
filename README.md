@@ -3,6 +3,14 @@
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
 <tr>
+<td width="150" align="right">2020-09-03<br>00:02<br><sup><sub>#GyXxZ38ZWu</sub></sup></td>
+<td><p>
+手指廢掉</p><p>
+<a href="src/CfIPmUeCCe.jpg?raw=true"><img src="thumbnail/CfIPmUeCCe_large.webp"></a></p>
+</td>
+</tr>
+
+<tr>
 <td width="150" align="right">2020-08-31<br>19:30<br><sup><sub>#d6N4ZrOHfB</sub></sup></td>
 <td><p>
 抓住暑假的尾巴，再逛一逛繁華的廣州</p><p>
