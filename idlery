@@ -1,12 +1,114 @@
+#!/bin/bash
+
 set -e
 set -o pipefail
-python ./utils/genthumbnail.py
-python ./utils/removeexif.py -s src/
-python ./utils/fillupload.py README.md
-python ./utils/convertcovers.py --modify-readme
-git add README.md
-git add covers
-git add src
-git add thumbnail
-git commit -m 'common update'
-git push
+
+NULL="::VALUE::NULL"
+
+stridx() {
+  remain=${1%%$2*}
+  if [[ $remain == $1 ]]
+  then
+    echo -1
+  else
+    echo ${#remain}
+  fi
+}
+
+strridx() {
+  after=${1##*$2}
+  if [[ $after == $1 ]]
+  then
+    echo -1
+  else
+    len=$(expr ${#after} + ${#2})
+    echo $(expr ${#1} - $len)
+  fi
+}
+
+v() {
+  if [[ $# == 1 ]]
+  then
+    echo "echo \$$1"
+  else
+    echo "Invalid arguments: $*" >&2
+  fi
+}
+# $(eval `v $varname`) -> get variable with name $varname
+
+printhelp() {
+  echo "usage: $0 [-h] action [...]"
+  echo ""
+  echo "Idlery operation"
+  echo "positional arguments:"
+  echo "  action        What to do. Currently supports:"
+  echo "                upload - Upload an idlery"
+  echo "                new    - Create a new idlery and start editing"
+  echo ""
+  echo "optional arguments:"
+  echo "  -h, --help    Show this help message and exit"
+}
+
+poscount=0
+
+for i in $(seq 1 $#)
+do
+  curarg=$(eval `v $i`)
+  if [[ ${curarg:0:2} == '--' ]]
+  then
+    if [[ $curarg == '--help' ]]
+    then
+      printhelp
+      exit 0
+    else
+      echo "Invalid argument: $curarg" >&2
+      exit 2
+    fi
+  elif [[ ${curarg:0:1} == '-' ]]
+  then
+    argseq=${curarg:1}
+    for (( i = 0; i < ${#argseq}; i++ ))
+    do
+      curshort=${argseq:$i:1}
+      if [[ $curshort == 'h' ]]
+      then
+        printhelp
+        exit 0
+      else
+        echo "Invalid argument: -${curshort}" >&2
+        exit 2
+      fi
+    done
+  else
+    if [[ $poscount == 0 ]]
+    then
+      action=$curarg
+      poscount=$(expr ${poscount} + 1)
+    elif [[ $action == 'new' ]]
+    then
+      echo "" > /dev/null
+    else
+      echo "Too much arguments: ${curarg}" >&2
+      exit 2
+    fi
+  fi
+done
+
+if [[ $action == 'upload' ]]
+then
+  python ./utils/genthumbnail.py
+  python ./utils/removeexif.py -s src/
+  python ./utils/fillupload.py README.md
+  python ./utils/convertcovers.py --modify-readme
+  git add README.md
+  git add covers
+  git add src
+  git add thumbnail
+  git commit -m 'common update'
+  git push
+elif [[ $action == 'new' ]]
+then
+  python ./utils/newidlery.py ${@:2}
+else
+  echo "Invalid action: ${action}"
+fi
