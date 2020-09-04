@@ -2,5 +2,5 @@
 /src/cover.png
 /subscriptions/*
 /data/*
-/config.py
+config.py
 **/__pycache__/*
