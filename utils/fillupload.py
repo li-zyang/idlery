@@ -1,12 +1,19 @@
-import pathlib
-import argparse
-from datetime import datetime
-import re
-from random import random
+import inspect
 import math
+import os
+import pathlib
+import re
 import sys
+from datetime import datetime
+from random import random
 
-parser = argparse.ArgumentParser(description = 'Fill up upload dates automatically')
+import argparse
+
+sys.path.insert(0, str(pathlib.Path(inspect.getsourcefile(lambda:0)).resolve().parent.parent))
+# import from parent directory
+import config
+
+parser = argparse.ArgumentParser(description = 'Fill out upload infomation automatically')
 parser.add_argument(
   'input', 
   metavar = 'PATH', 
@@ -27,13 +34,18 @@ parser.add_argument(
 
 args = parser.parse_args()
 
-tofind = re.compile(r'<td width="\d+" align="right">.*</td>')
-yearpattern  = re.compile(r'(?<!(\w|-|:))yyyy(?=-)')
-monthpattern = re.compile(r'(?<=-)MM(?=-)')
-datepattern  = re.compile(r'(?<=-)DD(?!(\w|-|:))')
-hourpattern  = re.compile(r'(?<!(\w|-|:))hh(?=:)')
-minpattern   = re.compile(r'(?<=:)mm(?!\w)')
-idpattern    = re.compile(r'(?<=#)__id(?!\w)')
+textfillpattern = re.compile(config.textfillpattern)
+tf_yearpattern  = re.compile(config.tf_yearpattern)
+tf_monthpattern = re.compile(config.tf_monthpattern)
+tf_datepattern  = re.compile(config.tf_datepattern)
+tf_hourpattern  = re.compile(config.tf_hourpattern)
+tf_minpattern   = re.compile(config.tf_minpattern)
+tf_idpattern    = re.compile(config.tf_idpattern)
+
+datafillpattern = re.compile(config.datafillpattern)
+df_tstmppattern = re.compile(config.df_tstmppattern)
+df_idpattern    = re.compile(config.df_idpattern)
+
 
 def genid():
   charmap = '0123456789abcdefghijklmnopqretuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
@@ -55,25 +67,44 @@ with open(args.input, 'r', encoding = 'utf-8') as inputfile:
 
 lines = original.split('\n')
 
+curid = None
+
 for i, line in enumerate(lines):
-  if not tofind.fullmatch(line):
+  textfillmatch = textfillpattern.fullmatch(line)
+  datafillmatch = datafillpattern.fullmatch(line)
+  if not textfillmatch and not datafillmatch:
     continue
-  yearmatch  = yearpattern.search(line)
-  monthmatch = monthpattern.search(line)
-  datematch  = datepattern.search(line)
-  hourmatch  = hourpattern.search(line)
-  minmatch   = minpattern.search(line)
-  idmatch    = idpattern.search(line)
-  if not (yearmatch and monthmatch and datematch and hourmatch and minmatch and idmatch):
-    continue
-  print('> {}: {}'.format(str(i).rjust(4), line[0 : 73]))
-  curtime = datetime.now()
-  lines[i] = yearpattern.sub(str(curtime.year).rjust(4, '0'), lines[i])
-  lines[i] = monthpattern.sub(str(curtime.month).rjust(2, '0'), lines[i])
-  lines[i] = datepattern.sub(str(curtime.day).rjust(2, '0'), lines[i])
-  lines[i] = hourpattern.sub(str(curtime.hour).rjust(2, '0'), lines[i])
-  lines[i] = minpattern.sub(str(curtime.minute).rjust(2, '0'), lines[i])
-  lines[i] = idpattern.sub(genid(), lines[i])
+  if textfillmatch:
+    yearmatch  = tf_yearpattern.search(line)
+    monthmatch = tf_monthpattern.search(line)
+    datematch  = tf_datepattern.search(line)
+    hourmatch  = tf_hourpattern.search(line)
+    minmatch   = tf_minpattern.search(line)
+    idmatch    = tf_idpattern.search(line)
+    if not (yearmatch and monthmatch and datematch and hourmatch and minmatch and idmatch):
+      continue
+    print('> {}: {}'.format(str(i).rjust(4), line[0 : 73]))
+    curtime = datetime.now()
+    lines[i] = tf_yearpattern.sub(str(curtime.year).rjust(4, '0'), lines[i])
+    lines[i] = tf_monthpattern.sub(str(curtime.month).rjust(2, '0'), lines[i])
+    lines[i] = tf_datepattern.sub(str(curtime.day).rjust(2, '0'), lines[i])
+    lines[i] = tf_hourpattern.sub(str(curtime.hour).rjust(2, '0'), lines[i])
+    lines[i] = tf_minpattern.sub(str(curtime.minute).rjust(2, '0'), lines[i])
+    if curid:
+      lines[i] = tf_idpattern.sub(curid, lines[i])
+      curid = None
+    else:
+      lines[i] = tf_idpattern.sub(genid(), lines[i])
+  else:
+    tstmpmatch = df_tstmppattern.search(line)
+    idmatch    = df_idpattern.search(line)
+    if not (tstmpmatch and idmatch):
+      continue
+    print('> {}: {}'.format(str(i).rjust(4), line[0 : 73]))
+    curtime = datetime.now()
+    lines[i] = df_tstmppattern.sub(str(curtime.timestamp()), lines[i])
+    curid = genid()
+    lines[i] = df_idpattern.sub(curid, lines[i])
 
 outputpath = args.alt if args.alt else args.input
 with open(outputpath, 'w', encoding = 'utf-8') as outputfile:
