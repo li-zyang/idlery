@@ -2,6 +2,15 @@
 
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
+<tr data-timestamp="1599217882.479271" data-id="NLd1HUM25o">
+<td width="150" align="right">2020-09-04<br>19:11<br><sup><sub>#NLd1HUM25o</sub></sup></td>
+<td><p>
+不聚集 -> 團日活動必須線下進行</p><p>
+<a href="src/ehPbwN2zC3.jpg?raw=true"><img src="thumbnail/ehPbwN2zC3.webp"></a>
+<a href="src/OeY1E2nOUp.jpg?raw=true"><img src="thumbnail/OeY1E2nOUp.webp"></a></p>
+</td>
+</tr>
+
 <tr>
 <td width="150" align="right">2020-09-03<br>00:02<br><sup><sub>#GyXxZ38ZWu</sub></sup></td>
 <td><p>
