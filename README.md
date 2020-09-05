@@ -2,6 +2,13 @@
 
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
+<tr data-timestamp="1599299801.593682" data-id="wB90SpYrav">
+<td width="150" align="right">2020-09-05<br>17:56<br><sup><sub>#wB90SpYrav</sub></sup></td>
+<td><p>
+現在的領導已經退化到點數都點不清楚了呢</p>
+</td>
+</tr>
+
 <tr data-timestamp="1599217882.479271" data-id="NLd1HUM25o">
 <td width="150" align="right">2020-09-04<br>19:11<br><sup><sub>#NLd1HUM25o</sub></sup></td>
 <td><p>
