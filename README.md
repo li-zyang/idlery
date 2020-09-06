@@ -2,6 +2,13 @@
 
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
+<tr data-timestamp="1599369698.547204" data-id="KLleabHfWu">
+<td width="150" align="right">2020-09-06<br>13:21<br><sup><sub>#KLleabHfWu</sub></sup></td>
+<td><p>
+好無聊啊</p>
+</td>
+</tr>
+
 <tr data-timestamp="1599305434.830941" data-id="kdDvNzjFvi">
 <td width="150" align="right">2020-09-05<br>19:30<br><sup><sub>#kdDvNzjFvi</sub></sup></td>
 <td><p>
