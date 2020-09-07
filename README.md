@@ -2,6 +2,14 @@
 
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
+<tr data-timestamp="1599439485.908344" data-id="b5BqlOzoMH">
+<td width="150" align="right">2020-09-07<br>08:44<br><sup><sub>#b5BqlOzoMH</sub></sup></td>
+<td><p>
+開學第一天，升旗、下暴雨、摔一身水、第一節課遲到還被老師發現</p><p>
+我看這個學期也不會好了</p>
+</td>
+</tr>
+
 <tr data-timestamp="1599369698.547204" data-id="KLleabHfWu">
 <td width="150" align="right">2020-09-06<br>13:21<br><sup><sub>#KLleabHfWu</sub></sup></td>
 <td><p>
