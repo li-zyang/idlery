@@ -7,6 +7,12 @@
 <td><p>
 開學第一天，升旗、下暴雨、摔一身水、第一節課遲到還被老師發現</p><p>
 我看這個學期也不會好了</p>
+<blockquote><a href="//github.com/li-zyang">li-zyang</a>:
+這天氣不是下雨淋一身水去哪都不方便就是出門被熱出一身汗，你乾脆把我直接淹死算了md
+</blockquote><blockquote><a href="//github.com/li-zyang">li-zyang</a>:
+我看這場雨就是專門爲了給我帶來一早上的麻煩而下的，早上剛到教室沒多久雨就停了，
+然後一直都保持着不出太陽也不下雨的狀態，等我下課回宿舍的時候就出大太陽
+</blockquote>
 </td>
 </tr>
 
