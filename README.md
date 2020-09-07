@@ -15,6 +15,11 @@
 華南師範大學，誰報誰後悔</p><p>
 行政樓門前已經裝飾得越來越像墳場了，祝它早日變成真正的墳場</p><p>
 <a href="src/46EZ3dHVPL.jpg?raw=true"><img src="thumbnail/46EZ3dHVPL_large.webp"></a></p>
+<blockquote><a href="//github.com/li-zyang">li-zyang</a>:
+東座一樓兩間教室都有人上課，有不開空調又不開燈也不知道這些人是想幹嘛
+</blockquote><blockquote><a href="//github.com/li-zyang">li-zyang</a>:
+華南官僚大學實錘
+</blockquote>
 </td><!-- ITEM-END -->
 </tr>
 
