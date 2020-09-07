@@ -2,6 +2,13 @@
 
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
+<tr data-timestamp="1599482744.237062" data-id="pGMFXeMQDh">
+<td width="150" align="right">2020-09-07<br>20:45<br><sup><sub>#pGMFXeMQDh</sub></sup></td>
+<td><p>
+保安大概是世界上所有正經職業裏面最流氓最令人討厭的一種了</p>
+</td>
+</tr>
+
 <tr data-timestamp="1599471364.141135" data-id="URkAtHCS92">
 <td width="150" align="right">2020-09-07<br>17:36<br><sup><sub>#URkAtHCS92</sub></sup></td>
 <td><p>
