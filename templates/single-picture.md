@@ -3,5 +3,5 @@
 <td><p>
 在此處鍵入內容</p><p>
 <a href="src/__pic_ID.jpg?raw=true"><img src="thumbnail/__pic_ID_large.webp"></a></p>
-</td>
+</td><!-- ITEM-END -->
 </tr>

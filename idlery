@@ -37,16 +37,29 @@ v() {
 # $(eval `v $varname`) -> get variable with name $varname
 
 printhelp() {
-  echo "usage: $0 [-h] action [...]"
-  echo ""
-  echo "Idlery operation"
-  echo "positional arguments:"
-  echo "  action        What to do. Currently supports:"
-  echo "                upload - Upload an idlery"
-  echo "                new    - Create a new idlery and start editing"
-  echo ""
-  echo "optional arguments:"
-  echo "  -h, --help    Show this help message and exit"
+  if [[ -z $1 ]]
+  then
+    echo "usage: ./idlery [-h] action [...]"
+    echo ""
+    echo "Idlery operation"
+    echo ""
+    echo "positional arguments:"
+    echo "  action        What to do. Currently supports:"
+    echo "                upload  - Upload an idlery"
+    echo "                new     - Create a new idlery and start editing"
+    echo "                comment - Add a comment on a specific item"
+    echo ""
+    echo "optional arguments:"
+    echo "  -h, --help    Show this help message and exit"
+  elif [[ $1 == 'upload' ]]
+  then
+    echo "usage: ./idlery upload [--no-stage]"
+    echo ""
+    echo "Upload an idlery"
+    echo ""
+    echo "optional arguments:"
+    echo "  --no-stage    Do everything before stage modifications to git"
+  fi
 }
 
 poscount=0
@@ -56,10 +69,17 @@ do
   curarg=$(eval `v $i`)
   if [[ ${curarg:0:2} == '--' ]]
   then
-    if [[ $curarg == '--help' ]]
+    if [[ $curarg == '--help' && -z $action ]]
     then
       printhelp
       exit 0
+    elif [[ $curarg == '--help' && $action == 'upload' ]]
+    then
+      printhelp 'upload'
+      exit 0
+    elif [[ $curarg == '--no-stage' && $action == "upload" ]]
+    then
+      no_stage=1
     else
       echo "Invalid argument: $curarg" >&2
       exit 2
@@ -84,9 +104,10 @@ do
     then
       action=$curarg
       poscount=$(expr ${poscount} + 1)
-    elif [[ $action == 'new' ]]
-    then
-      echo "" > /dev/null
+      if [[ $action == 'new' || $action == 'comment' ]]
+      then
+        break
+      fi
     else
       echo "Too much arguments: ${curarg}" >&2
       exit 2
@@ -100,15 +121,21 @@ then
   python ./utils/removeexif.py -s src/
   python ./utils/fillupload.py README.md
   python ./utils/convertcovers.py --modify-readme
-  git add README.md
-  git add covers
-  git add src
-  git add thumbnail
-  git commit -m 'common update'
-  git push
+  if [[ -z $no_stage || ! $no_stage ]]
+  then
+    git add README.md
+    git add covers
+    git add src
+    git add thumbnail
+    git commit -m 'common update'
+    git push
+  fi
 elif [[ $action == 'new' ]]
 then
   python ./utils/newidlery.py ${@:2}
+elif [[ $action == 'comment' ]]
+then
+  python ./utils/newcomment.py ${@:2}
 else
   echo "Invalid action: ${action}"
 fi
