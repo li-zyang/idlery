@@ -2,6 +2,14 @@
 
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
+<tr data-timestamp="1599531723.763015" data-id="VTqiLlnBFz">
+<td width="150" align="right">2020-09-08<br>10:22<br><sup><sub>#VTqiLlnBFz</sub></sup></td>
+<td><p>
+在華師，體驗 4G 網絡下的 2G 網速</p><p>
+<a href="src/EkYAP2mX4e.jpg?raw=true"><img src="thumbnail/EkYAP2mX4e_large.webp"></a></p>
+</td><!-- ITEM-END -->
+</tr>
+
 <tr data-timestamp="1599482744.237062" data-id="pGMFXeMQDh">
 <td width="150" align="right">2020-09-07<br>20:45<br><sup><sub>#pGMFXeMQDh</sub></sup></td>
 <td><p>
