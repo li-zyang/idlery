@@ -2,6 +2,18 @@
 
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
+<tr data-timestamp="1599699616.213252" data-id="SOfb834r27">
+<td width="150" align="right">2020-09-10<br>09:00<br><sup><sub>#SOfb834r27</sub></sup></td>
+<td><p>
+現在的媒體過度宣傳的所謂“正能量”反倒讓人感到麻木，因為新聞報導裏所描述的世界
+與現實中看到的世界並不一致，於是會讓人感覺到不真實，尤其是對於那些與某一篇報道
+具有相似經歷的人，當他們在現實中卻並沒有被同樣或相似地對待的時候，落差感則會更
+加明顯。以政治宣傳爲目的的報道實際上已經偏離了新聞本身的目的，其對倖存者偏差的
+模糊化讓人們更加不那麼能夠理性地去看待一個新聞，變得更加情緒化</p><p>
+<a href="src/CPyVoKFJGh.jpg?raw=true"><img src="thumbnail/CPyVoKFJGh_large.webp"></a></p>
+</td><!-- ITEM-END -->
+</tr>
+
 <tr data-timestamp="1599665904.577071" data-id="bZIeiwEKfB">
 <td width="150" align="right">2020-09-09<br>23:38<br><sup><sub>#bZIeiwEKfB</sub></sup></td>
 <td><p>
