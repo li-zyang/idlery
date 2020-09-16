@@ -16,7 +16,7 @@ parser = argparse.ArgumentParser(description = 'Comment on a spcific idlery')
 parser.add_argument(
   'id',
   metavar = 'ID',
-  help = 'The ID of a spcific idlery, starts with a \'#\'',
+  help = 'The ID of a spcific idlery, omits the \'#\'',
   action = 'store'
 )
 parser.add_argument(
@@ -75,7 +75,7 @@ for i, line in enumerate(lines):
     if not matchedbegin:
       continue
     idleryid = item_idpattern.search(line).group(0)
-    if not idleryid == args.id[1 : ]:
+    if not idleryid == args.id:
       continue
     findingend = True
 
