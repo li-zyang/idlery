@@ -2,6 +2,16 @@
 
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
+<tr data-timestamp="1600302228.801118" data-id="VMiwGKjvSy">
+<td width="150" align="right">2020-09-17<br>08:23<br><sup><sub>#VMiwGKjvSy</sub></sup></td>
+<td><p>
+在華師，體驗早上七點鐘被窗外的施工隊吵醒</p>
+<blockquote><a href="//github.com/li-zyang">li-zyang</a>:
+想要報華師的人在學校管理層大換血之前還是再等等吧hhh
+</blockquote>
+</td><!-- ITEM-END -->
+</tr>
+
 <tr data-timestamp="1600270062.987691" data-id="4gQnxEK4E3">
 <td width="150" align="right">2020-09-16<br>23:27<br><sup><sub>#4gQnxEK4E3</sub></sup></td>
 <td><p>
