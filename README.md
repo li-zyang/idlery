@@ -2,6 +2,15 @@
 
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
+<tr data-timestamp="1600408540.429065" data-id="YbiKRK7UaF">
+<td width="150" align="right">2020-09-18<br>13:55<br><sup><sub>#YbiKRK7UaF</sub></sup></td>
+<td><p>
+妙啊</p><p>
+可惜應該還是不能在沒有校準儀的情況下大概校準色彩這種功能</p><p>
+<a href="src/CjOhurdI3a.jpg?raw=true"><img src="thumbnail/CjOhurdI3a_large.webp"></a></p>
+</td><!-- ITEM-END -->
+</tr>
+
 <tr data-timestamp="1600347971.979981" data-id="neXkAN5EY">
 <td width="150" align="right">2020-09-17<br>21:06<br><sup><sub>#neXkAN5EY</sub></sup></td>
 <td><p>
