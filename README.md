@@ -2,6 +2,15 @@
 
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
+<tr data-timestamp="1600533783.60888" data-id="zHJrV0XXNI">
+<td width="150" align="right">2020-09-20<br>00:43<br><sup><sub>#zHJrV0XXNI</sub></sup></td>
+<td><p>
+倒騰了幾天 C++，終於深刻感受到了人們對它的嫌棄</p><p>
+沒別的，STL 和 GDB 真的是一坨狗屎，再加上毫無規範的語言風格</p><p>
+Oh, fuck</p>
+</td><!-- ITEM-END -->
+</tr>
+
 <tr data-timestamp="1600408540.429065" data-id="YbiKRK7UaF">
 <td width="150" align="right">2020-09-18<br>13:55<br><sup><sub>#YbiKRK7UaF</sub></sup></td>
 <td><p>
