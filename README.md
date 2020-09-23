@@ -2,6 +2,13 @@
 
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
+<tr data-timestamp="1600849354.538597" data-id="8DKJIZzZar">
+<td width="150" align="right">2020-09-23<br>16:22<br><sup><sub>#8DKJIZzZar</sub></sup></td>
+<td><p>
+一課的校園網又炸了，垃圾校領導又想要政績又不願意投入資源，傻逼</p>
+</td><!-- ITEM-END -->
+</tr>
+
 <tr data-timestamp="1600671183.690183" data-id="9rgl6k1wa5">
 <td width="150" align="right">2020-09-21<br>14:53<br><sup><sub>#9rgl6k1wa5</sub></sup></td>
 <td><p>
