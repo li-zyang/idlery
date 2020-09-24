@@ -14,6 +14,10 @@
 視甚至孤立，但當這種關懷的主體在今天從人變成機器，變成一些可以計算的東西的時候，
 難道不會讓人覺得很奇怪嗎？</p><p>
 <a href="https://mp.weixin.qq.com/s/jGToJ-vXmxj4yZwRYnM5sQ"><img src="src/Afic7HMWLu.webp" width="400"></a></p> 
+<blockquote><a href="//github.com/li-zyang">li-zyang</a>:
+倒也不是說反技術，只是我覺得技術應該用在正確的地方，而不是用來建一個越來越嚴密
+的囚籠，然後將越來越多的人加入進去，這真的會是一件很恐怖的事情
+</blockquote>
 </td><!-- ITEM-END -->
 </tr>
 
