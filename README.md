@@ -2,6 +2,21 @@
 
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
+<tr data-timestamp="1600910640.097103" data-id="DLKSvxeEqL">
+<td width="150" align="right">2020-09-24<br>09:24<br><sup><sub>#DLKSvxeEqL</sub></sup></td>
+<td><p>
+技術的應用越來越走向了一個讓每一個人都無處可藏的未來，從無處不在的監控攝像頭和
+安檢機，越來越多實名認證，難以放下的手機，到絞盡腦汁給用戶打標籤、下定義的廣告
+商，To-C 企業都趨之若鶩的數據挖掘和大數據分析，越來越快速同步且廣泛的數據販賣，
+再到準確率越來越高、應用越來越廣的人工智能，無不像跟蹤疑犯似地跟蹤着每一個人。</p><p>
+我願意相信提出這個設想的人是希望爲更多人提供關懷的，也許在僅僅十年前的人類社會，
+一種立即的關懷是令人欣慰和感動的，因爲那代表了一個人被周圍人關注着，而不是被忽
+視甚至孤立，但當這種關懷的主體在今天從人變成機器，變成一些可以計算的東西的時候，
+難道不會讓人覺得很奇怪嗎？</p><p>
+<a href="https://mp.weixin.qq.com/s/jGToJ-vXmxj4yZwRYnM5sQ"><img src="src/Afic7HMWLu.webp" width="400"></a></p> 
+</td><!-- ITEM-END -->
+</tr>
+
 <tr data-timestamp="1600849354.538597" data-id="8DKJIZzZar">
 <td width="150" align="right">2020-09-23<br>16:22<br><sup><sub>#8DKJIZzZar</sub></sup></td>
 <td><p>
