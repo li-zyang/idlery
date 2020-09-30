@@ -2,6 +2,17 @@
 
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
+<tr data-timestamp="1601473716.55125" data-id="G1qdm6f9Cd">
+<td width="150" align="right">2020-09-30<br>21:48<br><sup><sub>#G1qdm6f9Cd</sub></sup></td>
+<td><p>
+下午下課遇到一個一眼看過去認識的人，她認出我來了，但是我怎麼都沒法完全確定是誰。
+準確地說從開學到現在我已經遇到過好幾次這樣感覺是某個人但是又不敢完全確定的情況
+了，下午那個情景一直到現在都揮之不去，好像我過了一個學期把所有人都忘記了一樣</p><p>
+我真的很努力地想要記住那些與我有過交集的人的樣子，但是到最後發現自己對於所有人
+的記憶都還是模糊的</p>
+</td><!-- ITEM-END -->
+</tr>
+
 <tr data-timestamp="1601397305.244869" data-id="r3WM6OTXx5">
 <td width="150" align="right">2020-09-30<br>00:35<br><sup><sub>#r3WM6OTXx5</sub></sup></td>
 <td><p>
