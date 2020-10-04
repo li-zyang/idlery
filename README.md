@@ -2,6 +2,13 @@
 
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
+<tr data-timestamp="1601812186.638584" data-id="RPQc5490rm">
+<td width="150" align="right">2020-10-04<br>19:49<br><sup><sub>#RPQc5490rm</sub></sup></td>
+<td><p>
+死媽校領導，祝您家裏以後天天停電，這樣您就再也不需要交電費了</p>
+</td><!-- ITEM-END -->
+</tr>
+
 <tr data-timestamp="1601545412.375826" data-id="pDDQhwCaWh">
 <td width="150" align="right">2020-10-01<br>17:43<br><sup><sub>#pDDQhwCaWh</sub></sup></td>
 <td><p>
