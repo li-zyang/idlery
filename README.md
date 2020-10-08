@@ -2,6 +2,17 @@
 
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
+<tr data-timestamp="1602147160.566781" data-id="lVrtr7pVC6">
+<td width="150" align="right">2020-10-08<br>16:52<br><sup><sub>#lVrtr7pVC6</sub></sup></td>
+<td><p>
+調單車前撥的方式是調上面兩個帶彈簧的螺絲，不是調傳動線，這跟後撥不一樣，記住了
+嗎🌚</p>
+<blockquote><a href="//github.com/li-zyang">li-zyang</a>:
+在樓下倒騰了一下午被氣到罵一百遍這玩意的設計師終於發現了這個機關.fine
+</blockquote>
+</td><!-- ITEM-END -->
+</tr>
+
 <tr data-timestamp="1601812186.638584" data-id="RPQc5490rm">
 <td width="150" align="right">2020-10-04<br>19:49<br><sup><sub>#RPQc5490rm</sub></sup></td>
 <td><p>
