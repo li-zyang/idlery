@@ -2,6 +2,14 @@
 
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
+<tr data-timestamp="1602306739.537336" data-id="AzxMDelbCH">
+<td width="150" align="right">2020-10-10<br>13:12<br><sup><sub>#AzxMDelbCH</sub></sup></td>
+<td><p>
+當你試圖在 Windows 上編譯開源軟體的源程式碼...</p><p>
+<a href="src/CCTvA2TIfe.png?raw=true"><img src="thumbnail/CCTvA2TIfe_large.webp"></a></p>
+</td><!-- ITEM-END -->
+</tr>
+
 <tr data-timestamp="1602242540.984072" data-id="EQuwUgmRP4">
 <td width="150" align="right">2020-10-09<br>19:22<br><sup><sub>#EQuwUgmRP4</sub></sup></td>
 <td><p>
