@@ -2,6 +2,13 @@
 
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
+<tr data-timestamp="1602549437.029547" data-id="yehDJjeBXe">
+<td width="150" align="right">2020-10-13<br>08:37<br><sup><sub>#yehDJjeBXe</sub></sup></td>
+<td><p>
+我嚴重懷疑華師拆掉了學校裏面的大部分移動基站，一課的移動網路也只有 2G 的速度了</p>
+</td><!-- ITEM-END -->
+</tr>
+
 <tr data-timestamp="1602306739.537336" data-id="AzxMDelbCH">
 <td width="150" align="right">2020-10-10<br>13:12<br><sup><sub>#AzxMDelbCH</sub></sup></td>
 <td><p>
