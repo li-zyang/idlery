@@ -2,6 +2,14 @@
 
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
+<tr data-timestamp="1602581687.142866" data-id="u2j6Pc8gez">
+<td width="150" align="right">2020-10-13<br>17:34<br><sup><sub>#u2j6Pc8gez</sub></sup></td>
+<td><p>
+把系統搞崩過一次之後，怕了</p><p>
+<a href="src/k07oZQOcpb.png?raw=true"><img src="thumbnail/k07oZQOcpb_large.webp"></a></p>
+</td><!-- ITEM-END -->
+</tr>
+
 <tr data-timestamp="1602549437.029547" data-id="yehDJjeBXe">
 <td width="150" align="right">2020-10-13<br>08:37<br><sup><sub>#yehDJjeBXe</sub></sup></td>
 <td><p>
