@@ -2,6 +2,13 @@
 
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
+<tr data-timestamp="1604195253.416941" data-id="5KYw3zHWCb">
+<td width="150" align="right">2020-11-01<br>09:47<br><sup><sub>#5KYw3zHWCb</sub></sup></td>
+<td><p>
+每日一咒，微軟爆炸</p>
+</td><!-- ITEM-END -->
+</tr>
+
 <tr data-timestamp="1603383966.32663" data-id="YRHBkpNLFr">
 <td width="150" align="right">2020-10-23<br>00:26<br><sup><sub>#YRHBkpNLFr</sub></sup></td>
 <td><p>
