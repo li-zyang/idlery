@@ -2,6 +2,13 @@
 
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
+<tr data-timestamp="1606372811.587147" data-id="HkA05jbE9c">
+<td width="150" align="right">2020-11-26<br>14:40<br><sup><sub>#HkA05jbE9c</sub></sup></td>
+<td><p>
+Microsoft Window死 操作系统 👎</p>
+</td><!-- ITEM-END -->
+</tr>
+
 <tr data-timestamp="1605195818.35353" data-id="wRv8YIEKgx">
 <td width="150" align="right">2020-11-12<br>23:43<br><sup><sub>#wRv8YIEKgx</sub></sup></td>
 <td><p>
