@@ -2,6 +2,13 @@
 
 <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="transparent" align="left" frame="void">
 
+<tr data-timestamp="1607581789.971789" data-id="EGCbCjYXY">
+<td width="150" align="right">2020-12-10<br>14:29<br><sup><sub>#EGCbCjYXY</sub></sup></td>
+<td><p>
+兩天重啓四次，真有你的</p>
+</td><!-- ITEM-END -->
+</tr>
+
 <tr data-timestamp="1606785635.944028" data-id="B4nGK9O2Qz">
 <td width="150" align="right">2020-12-01<br>09:20<br><sup><sub>#B4nGK9O2Qz</sub></sup></td>
 <td><p>
