@@ -37,7 +37,7 @@
 <a href="src/eOmUDOIbwE.jpg?raw=true"><img src="thumbnail/eOmUDOIbwE_large.webp"></a>
 <a href="src/Ogt3L50cdy.jpg?raw=true"><img src="thumbnail/Ogt3L50cdy_large.webp"></a>
 <a href="src/22a5ytpjuL.jpg?raw=true"><img src="thumbnail/22a5ytpjuL_large.webp"></a>
-<a href="src/mCTtUkwTiK.jpg?raw=true"><img src="thumbnail/mCTtUkwTiK_large.webp"></a>
+<a href="src/kOqJfNeGFy.jpg?raw=true"><img src="thumbnail/kOqJfNeGFy_large.webp"></a>
 <a href="src/k4tmMKk7S5.jpg?raw=true"><img src="thumbnail/k4tmMKk7S5_large.webp"></a>
 <a href="src/oGPy27WOid.jpg?raw=true"><img src="thumbnail/oGPy27WOid_large.webp"></a></p>
 </td><!-- ITEM-END -->
