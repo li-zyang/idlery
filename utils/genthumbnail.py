@@ -23,7 +23,7 @@ parser.add_argument(
   metavar = 'WxH',
   help = 'the size of container rectangle',
   action = 'store',
-  default = '100x100'
+  default = '133x133'
 )
 parser.add_argument(
   '-l', '--large-box',
