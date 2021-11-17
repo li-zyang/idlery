@@ -25,7 +25,7 @@
 <a href="src/UooJOHJA4J.jpg?raw=true"><img src="thumbnail/UooJOHJA4J_large.webp"></a>
 <a href="src/ikZwqma1HJ.jpg?raw=true"><img src="thumbnail/ikZwqma1HJ_large.webp"></a>
 <a href="src/OMDqCm2InH.jpg?raw=true"><img src="thumbnail/OMDqCm2InH_large.webp"></a>
-<a href="src/0AIbp21Lqe.jpg?raw=true"><img src="thumbnail/0AIbp21Lqe_large.webp"></a>
+<a href="src/0AIbp21Lqe.jpg?raw=true"><img src="thumbnail/0AIbp21Lqe.webp"></a>
 <a href="src/0mTI1xOJte.jpg?raw=true"><img src="thumbnail/0mTI1xOJte_large.webp"></a>
 <a href="src/2HHFBfAe9m.jpg?raw=true"><img src="thumbnail/2HHFBfAe9m_large.webp"></a></p>
 </td><!-- ITEM-END -->
@@ -36,10 +36,10 @@
 <td><p>
 <a href="src/eOmUDOIbwE.jpg?raw=true"><img src="thumbnail/eOmUDOIbwE_large.webp"></a>
 <a href="src/Ogt3L50cdy.jpg?raw=true"><img src="thumbnail/Ogt3L50cdy_large.webp"></a>
-<a href="src/22a5ytpjuL.jpg?raw=true"><img src="thumbnail/22a5ytpjuL_large.webp"></a>
+<a href="src/22a5ytpjuL.jpg?raw=true"><img src="thumbnail/22a5ytpjuL.webp"></a>
 <a href="src/kOqJfNeGFy.jpg?raw=true"><img src="thumbnail/kOqJfNeGFy_large.webp"></a>
 <a href="src/k4tmMKk7S5.jpg?raw=true"><img src="thumbnail/k4tmMKk7S5_large.webp"></a>
-<a href="src/oGPy27WOid.jpg?raw=true"><img src="thumbnail/oGPy27WOid_large.webp"></a></p>
+<a href="src/oGPy27WOid.jpg?raw=true"><img src="thumbnail/oGPy27WOid.webp"></a></p>
 </td><!-- ITEM-END -->
 </tr>
 
